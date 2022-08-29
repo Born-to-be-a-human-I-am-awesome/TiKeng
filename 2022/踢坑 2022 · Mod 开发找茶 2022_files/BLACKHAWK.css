@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'BLACKHAWK';
+  font-style: normal;
+  font-weight: normal;
+  font-named-instance: 'Regular';
+  src: url('BLACKHAWK.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'BLACKHAWK Swash';
+  font-style: normal;
+  font-weight: normal;
+  src: url('BLACKHAWK Swash.woff2') format('woff2');
+}
